@@ -1,7 +1,15 @@
 .header_logo {
   width: 75px;
 }
-
+.insta-color {
+  color: #f74e50;
+}
+.color-sec {
+  color: #eb467d;
+}
+.flex-direction-row-reverse {
+  flex-direction: row-reverse;
+}
 @media screen and (max-width: 1024px) {
   .header_logo {
     width: 45px;
